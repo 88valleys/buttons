@@ -43,13 +43,10 @@
   size: 600px;
   height: 600px;
   width: 600px;
-  padding: 50px;
-  margin: 50px;
   text-decoration: none;
   text-align: center;
   color: rgb(0, 0, 0);
   font-size: 100px;
-  display: flex;
   transition: 500ms ease-in-out;
   border-radius: 600px;
 }
