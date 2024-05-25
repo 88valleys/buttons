@@ -41,6 +41,8 @@
   background-position: center;
   background-size: cover;
   size: 600px;
+  height: 600px;
+  width: 600px;
   padding: 50px;
   margin: 50px;
   text-decoration: none;
