@@ -50,7 +50,6 @@
   color: rgb(0, 0, 0);
   font-size: 100px;
   display: flex;
-  border-width: 10px;
   transition: 500ms ease-in-out;
   border-radius: 600px;
 }
