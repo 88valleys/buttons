@@ -1,0 +1,61 @@
+/* Your button CSS file */
+
+.btn-medium {
+  padding: 10px;
+  border: 1px solid #999;
+    border-top-color: rgb(153, 153, 153);
+    border-right-color: rgb(153, 153, 153);
+    border-bottom-color: rgb(153, 153, 153);
+    border-left-color: rgb(153, 153, 153);
+  padding: 8px 25px;
+  color: #3B48DF;
+  border-radius: 20px;
+  border-color: 999999;
+  color: 999999;
+  font-weight: 300;
+  transition: all 70ms ease-in-out;
+}
+
+.btn-medium:hover
+{
+  color: grey;
+  border-color: grey;
+}
+
+.btn-treehouse
+{
+  background-color: #6AD58B;
+  color: white;
+  padding: 10 20;
+  font-weight: 700;
+  border-radius: 3px;
+  transition: all 70ms ease-in-out;
+
+}
+
+.btn-treehouse:hover {
+  background-color: #3ac162;
+}
+
+.btn-yours {
+  background-position: center;
+  background-size: cover;
+  size: 600px;
+  padding: 50px;
+  margin: 50px;
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  font-size: 100px;
+  display: flex;
+  border-style: dashed;
+  border-color: white;
+  border-width: 10px;
+  transition: 500ms ease-in-out;
+  border-radius: 600px;
+}
+
+.btn-yours:hover
+{
+  background-image: url(../images/shibe-glasses.gif);
+  box-shadow: 0px 10px 100px 2px rgba(255,255,225,.9);
+}
