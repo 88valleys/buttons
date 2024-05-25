@@ -12,7 +12,10 @@ body {
 }
 h1, h2, h3 {
   font-family: Raleway, Helvetica, sans-serif;
+}
 
+.heading {
+  color: white;
 }
 a {
   text-decoration: none;
